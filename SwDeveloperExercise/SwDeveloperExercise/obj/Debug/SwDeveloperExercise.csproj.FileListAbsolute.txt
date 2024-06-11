@@ -1,0 +1,14 @@
+C:\Users\Nicolas\Desktop\SwDeveloperExercise\SwDeveloperExercise\bin\Debug\SwDeveloperExercise.exe.config
+C:\Users\Nicolas\Desktop\SwDeveloperExercise\SwDeveloperExercise\bin\Debug\SwDeveloperExercise.exe
+C:\Users\Nicolas\Desktop\SwDeveloperExercise\SwDeveloperExercise\bin\Debug\SwDeveloperExercise.pdb
+C:\Users\Nicolas\Desktop\SwDeveloperExercise\SwDeveloperExercise\obj\Debug\SwDeveloperExercise.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Desktop\SwDeveloperExercise\SwDeveloperExercise\obj\Debug\SwDeveloperExercise.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Desktop\SwDeveloperExercise\SwDeveloperExercise\obj\Debug\SwDeveloperExercise.exe
+C:\Users\Nicolas\Desktop\SwDeveloperExercise\SwDeveloperExercise\obj\Debug\SwDeveloperExercise.pdb
+C:\Users\Nicolas\Source\Repos\SwDeveloperExercise\SwDeveloperExercise\SwDeveloperExercise\bin\Debug\SwDeveloperExercise.exe.config
+C:\Users\Nicolas\Source\Repos\SwDeveloperExercise\SwDeveloperExercise\SwDeveloperExercise\bin\Debug\SwDeveloperExercise.exe
+C:\Users\Nicolas\Source\Repos\SwDeveloperExercise\SwDeveloperExercise\SwDeveloperExercise\bin\Debug\SwDeveloperExercise.pdb
+C:\Users\Nicolas\Source\Repos\SwDeveloperExercise\SwDeveloperExercise\SwDeveloperExercise\obj\Debug\SwDeveloperExercise.csproj.AssemblyReference.cache
+C:\Users\Nicolas\Source\Repos\SwDeveloperExercise\SwDeveloperExercise\SwDeveloperExercise\obj\Debug\SwDeveloperExercise.csproj.CoreCompileInputs.cache
+C:\Users\Nicolas\Source\Repos\SwDeveloperExercise\SwDeveloperExercise\SwDeveloperExercise\obj\Debug\SwDeveloperExercise.exe
+C:\Users\Nicolas\Source\Repos\SwDeveloperExercise\SwDeveloperExercise\SwDeveloperExercise\obj\Debug\SwDeveloperExercise.pdb
